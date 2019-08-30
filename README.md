@@ -1,7 +1,7 @@
 # redis-sniffer
 > redis sniffer network traffic 
 
-###
+### 功能
 * 支持query 命令解析
 * 支持RESP 协议解析
 * 支持状态回复（status reply）解析
